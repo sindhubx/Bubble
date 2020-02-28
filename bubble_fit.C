@@ -196,5 +196,7 @@ void bubble_fit(){
 	plat->Draw();
 */
 
+// say something
+int x123 = 5;		
 		
 }
